@@ -5,7 +5,6 @@
 
 Train and test a YOLO26 instance-segmentation model for identifying cracks in surface images. The notebooks use Ultralytics YOLO to predict both object locations and pixel-level masks, making the project useful for visual inspection workflows involving concrete, walls, and related surfaces.
 
-> This project is an experimental computer-vision workflow. Its predictions do not replace inspection or assessment by qualified professionals.
 
 ## Overview
 
